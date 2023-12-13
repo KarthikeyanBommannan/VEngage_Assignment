@@ -1,0 +1,92 @@
+[
+  {
+      "name": "john",
+      "email": "john@xyz.com",
+      "phone1": "1234567890",
+      "phone2": "9876543210"
+  },
+  {
+      "name": "doe",
+      "email": "doe@abc.com",
+      "phone1": "9517534560",
+      "phone2": "9638521470"
+  },
+  {
+      "name": "cathy",
+      "email": "caty@gmail.com",
+      "phone1": "7418520963",
+      "phone2": "9623587015"
+  },
+  {
+      "name": "peter",
+      "email": "panda@hotmail.com",
+      "phone1": "9073851625",
+      "phone2": "7391824609"
+  },
+  {
+      "name": "biju",
+      "email": "biju@yahoo.com",
+      "phone1": "9536275184",
+      "phone2": "8524963780"
+  },
+  {
+      "name": "sam",
+      "email": "sam@xyz.com",
+      "phone1": "9519512357",
+      "phone2": "7591530486"
+  },
+  {
+      "name": "chauv",
+      "email": "chacha@gmail.com",
+      "phone1": "0123426783",
+      "phone2": "9878654532"
+  },
+  {
+      "name": "vikran",
+      "email": "vikranth@gmail.com",
+      "phone1": "8520147963",
+      "phone2": "3698521407"
+  },
+  {
+      "name": "maya",
+      "email": "vishu@yahoo.com",
+      "phone1": "7410852369",
+      "phone2": "7896541235"
+  },
+  {
+      "name": "punith",
+      "email": "kumar@gmail.com",
+      "phone1": "01597538",
+      "phone2": "03233519"
+  },
+  {
+      "name": "karen",
+      "email": "car@hotmail.com",
+      "phone1": "7182934862",
+      "phone2": "6842793152"
+  },
+  {
+      "name": "kesav",
+      "email": "kesav@gmail",
+      "phone1": "7418419526",
+      "phone2": "3692571475"
+  },
+  {
+      "name": "pretty",
+      "email": "pretty@hotmail.com",
+      "phone1": "10159638",
+      "phone2": "10159639"
+  },
+  {
+      "name": "vaibhav",
+      "email": "vaiyu@gmail.com",
+      "phone1": "9852378521",
+      "phone2": "7852198523"
+  },
+  {
+      "name": "siddhu",
+      "email": "sid@yahoo.com",
+      "phone1": "7456914563",
+      "phone2": "7012367456"
+  }
+]
