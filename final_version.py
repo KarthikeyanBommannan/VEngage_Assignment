@@ -154,27 +154,7 @@ class Phonebook:
         for record in data:
             table.add_row(record.values())
         print(table)
-        """
-        Print the SQL-like output in a formatted table.
-
-        Parameters:
-        - data (list of dictionaries): The data to be printed in a table format.
-
-        Returns:
-        - None
-
-        This function takes in a list of dictionaries representing records and prints
-        them in a formatted table. If the data is empty, it prints a message indicating
-        no matching records were found.
-        """
-        if not data:
-            print("No matching records found.")
-            return None
-
-        table = PrettyTable(data[0].keys())
-        for record in data:
-            table.add_row(record.values())
-        print(table)
+        
 
 
 phone_records = Phonebook("phonebook.csv")
