@@ -165,6 +165,6 @@ phone_records.print_sql_like_output(results)
 results = phone_records.read("SELECT * FROM phone_records WHERE name='doe';")
 phone_records.print_sql_like_output(results)
 
-phone_records.insert("INSERT INTO phone_records(name, email, phone1, phone2) VALUES('Test', 'test@test.xyz', '1234456', '1233233')")
+phone_records.insert("INSERT INTO phone_records(name, email, phone1, phone2) VALUES(Test, test@test.xyz, 1234456, 1233233)")
 
 phone_records.delete("DELETE FROM phone_records WHERE name='john'")
